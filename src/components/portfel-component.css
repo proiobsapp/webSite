@@ -1,0 +1,125 @@
+#toolBar{
+     display: flex;
+     flex-direction: row;    
+     align-items: center;
+     justify-content: space-between;
+     height: 45px;
+ }
+ #toolBarL {
+     display: flex;
+     flex-direction: row;   
+     align-items: center;
+ }
+ #toolBarR {
+     display: flex;
+     flex-direction: row;   
+     align-items: center;
+ }
+ 
+ #workspace{    
+     height: calc(100vh - 140px);
+     display: flex;
+     flex-direction: column;
+     position: relative;
+ }
+ 
+ .splitter { 
+     display: flex;
+     height: 100%;
+     width: 100%;  
+     padding: 3px;
+ }
+ .splitterB {
+     display: flex;
+     flex-direction: column;
+     height: 100%;
+     width: 100%; 
+     padding: 2px;
+ }
+ 
+ .buttonLabel {
+     font-size: 14px;
+     font-family: Lato-Bold, sans-serif;
+     margin: 0px 5px;    
+     user-select: none;
+     color: #495057;
+ }
+ 
+ .wj-flexchart  {      
+     font-size: 12px; 
+     min-height: 30px;
+ }
+ 
+ .wj-chart-linemarker-content {
+     padding: 0px;
+     margin: 0px;
+     border-radius: 3px;
+     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+ }
+ 
+ .wj-flexchart .wj-chart-linemarker .wj-chart-linemarker-hline,
+ .wj-flexchart .wj-chart-linemarker .wj-chart-linemarker-vline {
+     height: 1px;
+     width: 1px;
+     opacity: 0.5;
+     background: navy;
+ }
+ 
+ .container-fluid .wj-flexchart {
+     padding: 5px;
+ }
+ 
+ .container-fluid .chart-selector {
+     height: 100px;
+ }
+ 
+ .container-fluid .wj-flexchart .wj-chart-rangeslider .wj-rangeslider-rangehandle {
+     background: lightblue;
+     opacity: .3
+ }
+ 
+ .inputDate {
+     background-color: #e9ecef;
+     color: #495057;
+     font-size: 13px;
+     width: 10em;
+ }
+ 
+ .spinner{
+     text-align: center;
+     display: block;
+     justify-content: center;
+     align-items: center;
+     margin: auto;
+     width: 100%;
+   }
+ 
+ .dataRow {
+     display: flex;
+     justify-content: flex-end;
+ }
+ .headerRow {
+     display: flex;
+     justify-content: center;
+ }
+ .headerCol {
+     display: flex;
+     justify-content: flex-start;
+ }
+ 
+ /*.grid .wj-cell {
+     background: white;
+ }
+ 
+ .grid .wj-alt {
+     background: burlywood;
+     border-left: 2px dotted yellow;
+ }
+ 
+ .grid .wj-flexgrid .wj-grouprow .wj-node {
+     background-color: blueviolet;
+ }
+ 
+ .grid .wj-cells .wj-row .wj-state-selected{
+     background: burlywood;
+ }*/

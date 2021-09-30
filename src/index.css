@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Lato */
+@font-face {
+  font-family: 'Lato-Black';
+  src: local('Lato-Black'), url(./assets//fonts/Lato-Black.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-BlackItalic';
+  src: local('Lato-BlackItalic'), url(./assets//fonts/Lato-BlackItalic.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-Bold';
+  src: local('Lato-Bold'), url(./assets//fonts/Lato-Bold.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-BoldItalic';
+  src: local('Lato-BoldItalic'), url(./assets//fonts/Lato-BoldItalic.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-Italic';
+  src: local('Lato-Italic'), url(./assets//fonts/Lato-Italic.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-Light';
+  src: local('Lato-Light'), url(./assets//fonts/Lato-Light.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-LightItalic';
+  src: local('Lato-LightItalic'), url(./assets//fonts/Lato-LightItalic.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-Regular';
+  src: local('Lato-Regular'), url(./assets//fonts/Lato-Regular.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-Thin';
+  src: local('Lato-Thin'), url(./assets//fonts/Lato-Thin.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Lato-ThinItalic';
+  src: local('Lato-ThinItalic'), url(./assets//fonts/Lato-ThinItalic.ttf) format('opentype');
+}
+
+/**********************************************/
+
+@font-face {
+  font-family: 'NunitoSans-Regular';
+  src: local('NunitoSans-Regular'), url(./assets//fonts/NunitoSans-Regular.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'NunitoSans-SemiBold';
+  src: local('NunitoSans-SemiBold'), url(./assets//fonts/NunitoSans-SemiBold.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'NunitoSans-Bold';
+  src: local('NunitoSans-Bold'), url(./assets//fonts/NunitoSans-Bold.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'NunitoSans-BlackItalic';
+  src: local('NunitoSans-BlackItalic'), url(./assets//fonts/NunitoSans-BlackItalic.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'NunitoSans-Italic';
+  src: local('NunitoSans-Italic'), url(./assets//fonts/NunitoSans-Italic.ttf) format('opentype');
+}
+
+/**********************************************/
+
+@font-face {
+  font-family: 'Nunito-Regular';
+  src: local('Nunito-Regular'), url(./assets//fonts/Nunito-Regular.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Nunito-SemiBold';
+  src: local('Nunito-SemiBold'), url(./assets//fonts/Nunito-SemiBold.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Nunito-Bold';
+  src: local('Nunito-Bold'), url(./assets//fonts/Nunito-Bold.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Nunito-BlackItalic';
+  src: local('Nunito-BlackItalic'), url(./assets//fonts/Nunito-BlackItalic.ttf) format('opentype');
+}
+@font-face {
+  font-family: 'Nunito-Italic';
+  src: local('Nunito-Italic'), url(./assets//fonts/Nunito-Italic.ttf) format('opentype');
+}
