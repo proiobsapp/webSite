@@ -4,12 +4,12 @@ import { ReactComponent as SunSVG } from '../assets/svg/sun.svg';
 
 const MainMenu: Menu[] = [
      {
-          id: 'SF_PROG',
+          id: 'PORTFEL',
           name: 'Portfel',
           enable: true,     
           tab: [
                {
-                    id: 'SF_PANEL_PROGNOZ',
+                    id: 'PORTFEL',
                     name: 'Portfel',
                     description: 'Portfel',
                     enable: true,
